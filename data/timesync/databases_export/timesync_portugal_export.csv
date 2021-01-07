@@ -1,0 +1,1594 @@
+project_id,plotid,year,day,landuse,landcover,change_process
+25,2,1984,252,Other,Non-treed,
+25,2,2018,193,Other,Non-treed,Stable
+25,3,1984,197,Other,Non-treed,
+25,3,2018,202,Other,Non-treed,Stable
+25,6,1984,252,Other,Non-treed,
+25,6,2018,201,Other,Non-treed,Stable
+25,11,1984,179,Forest,Treed,
+25,11,2018,193,Forest,Treed,Stable
+25,12,1984,197,Other,Non-treed,
+25,12,2018,201,Other,Non-treed,Stable
+25,13,1984,197,Forest,Treed,
+25,13,2018,202,Forest,Treed,Stable
+25,14,1984,197,Other,Non-treed,
+25,14,2018,202,Other,Non-treed,Stable
+25,21,1984,252,Forest,Treed,
+25,21,2018,217,Forest,Treed,Stable
+25,22,1984,211,Other,Non-treed,
+25,22,2018,193,Other,Non-treed,Stable
+25,23,1984,197,Other,Non-treed,
+25,23,2018,202,Other,Non-treed,Stable
+25,28,1984,252,Forest,Treed,
+25,28,2018,209,Forest,Treed,Stable
+25,29,1984,197,Other,Non-treed,
+25,29,2018,202,Other,Non-treed,Stable
+25,30,1984,252,Forest,Treed,
+25,30,2018,193,Forest,Treed,Stable
+25,31,1984,197,Forest,Treed,
+25,31,2018,194,Forest,Treed,Stable
+25,32,1984,197,Other,Non-treed,
+25,32,2018,201,Other,Non-treed,Stable
+25,33,1984,197,Forest,Treed,
+25,33,1986,202,Forest,Treed,Stable
+25,33,1987,196,Forest,Non-treed,Unknown canopy disturbance
+25,33,1993,196,Forest,Treed,Regrowth
+25,33,2003,201,Forest,Treed,Stable
+25,33,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,33,2009,192,Forest,Treed,Regrowth
+25,33,2018,201,Forest,Treed,Stable
+25,34,1984,197,Forest,Treed,
+25,34,1999,198,Forest,Treed,Stable
+25,34,2000,201,Other,Non-treed,Unknown canopy disturbance
+25,34,2018,194,Other,Non-treed,Stable
+25,35,1984,252,Forest,Treed,
+25,35,2018,209,Forest,Treed,Stable
+25,38,1984,197,Other,Non-treed,
+25,38,2018,201,Other,Non-treed,Stable
+25,39,1984,188,Other,Non-treed,
+25,39,2018,201,Other,Non-treed,Stable
+25,36,1984,197,Other,Non-treed,
+25,36,2018,194,Other,Non-treed,Stable
+25,40,1984,197,Other,Non-treed,
+25,40,2018,202,Other,Non-treed,Stable
+25,43,1984,197,Forest,Treed,
+25,43,2018,202,Forest,Treed,Stable
+25,45,1984,252,Forest,Treed,
+25,45,2018,193,Forest,Treed,Stable
+25,50,1984,197,Forest,Treed,
+25,50,2017,199,Forest,Treed,Stable
+25,50,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,51,1984,188,Forest,Treed,
+25,51,2005,197,Forest,Treed,Stable
+25,51,2006,216,Forest,Non-treed,Unknown canopy disturbance
+25,51,2018,201,Forest,Treed,Regrowth
+25,54,1984,197,Other,Non-treed,
+25,54,2018,201,Other,Non-treed,Stable
+25,58,1984,211,Other,Non-treed,
+25,58,2018,193,Other,Non-treed,Stable
+25,59,1984,188,Forest,Treed,
+25,59,2018,217,Forest,Treed,Stable
+25,61,1984,211,Forest,Treed,
+25,61,2018,193,Forest,Treed,Stable
+25,62,1984,197,Other,Non-treed,
+25,62,2018,201,Other,Non-treed,Stable
+25,68,1984,197,Other,Non-treed,
+25,68,2018,202,Other,Non-treed,Stable
+25,74,1984,197,Other,Non-treed,
+25,74,2018,201,Other,Non-treed,Stable
+25,75,1984,197,Other,Non-treed,
+25,75,2018,201,Other,Non-treed,Stable
+25,77,1984,197,Forest,Treed,
+25,77,2018,201,Forest,Treed,Stable
+25,81,1984,220,Other,Non-treed,
+25,81,2018,201,Other,Non-treed,Stable
+25,86,1984,197,Forest,Treed,
+25,86,2013,180,Forest,Treed,Stable
+25,86,2014,151,Forest,Non-treed,Unknown canopy disturbance
+25,86,2018,202,Forest,Treed,Regrowth
+25,87,1984,197,Other,Non-treed,
+25,87,2018,201,Other,Non-treed,Stable
+25,88,1984,252,Forest,Treed,
+25,88,2018,201,Forest,Treed,Stable
+25,91,1984,252,Forest,Treed,
+25,91,2018,201,Forest,Treed,Stable
+25,96,1984,220,Other,Non-treed,
+25,96,2018,201,Other,Non-treed,Stable
+25,97,1984,188,Forest,Treed,
+25,97,2016,196,Forest,Treed,Stable
+25,97,2017,150,Forest,Non-treed,Unknown canopy disturbance
+25,97,2018,201,Forest,Treed,Regrowth
+25,105,1984,197,Other,Non-treed,
+25,105,2018,201,Other,Non-treed,Stable
+25,108,1984,197,Other,Non-treed,
+25,108,2018,201,Other,Non-treed,Stable
+25,110,1984,197,Other,Non-treed,
+25,110,2018,202,Other,Non-treed,Stable
+25,111,1984,197,Other,Non-treed,
+25,111,2018,201,Other,Non-treed,Stable
+25,113,1984,188,Forest,Treed,
+25,113,2018,217,Forest,Treed,Stable
+25,114,1984,197,Other,Non-treed,
+25,114,2018,202,Other,Non-treed,Stable
+25,116,1984,197,Other,Non-treed,
+25,116,2018,201,Other,Non-treed,Stable
+25,117,1984,197,Other,Non-treed,
+25,117,2018,202,Other,Non-treed,Stable
+25,122,1984,197,Other,Non-treed,
+25,122,2018,201,Other,Non-treed,Stable
+25,124,1984,188,Other,Non-treed,
+25,124,2018,201,Other,Non-treed,Stable
+25,129,1984,197,Forest,Treed,
+25,129,2003,201,Forest,Treed,Stable
+25,129,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,129,2009,192,Forest,Treed,Regrowth
+25,129,2018,201,Forest,Treed,Stable
+25,132,1984,188,Other,Non-treed,
+25,132,2018,201,Other,Non-treed,Stable
+25,133,1984,188,Forest,Treed,
+25,133,2018,201,Forest,Treed,Stable
+25,134,1984,197,Forest,Treed,
+25,134,2018,201,Forest,Treed,Stable
+25,140,1984,197,Other,Non-treed,
+25,140,2018,202,Other,Non-treed,Stable
+25,143,1984,197,Other,Non-treed,
+25,143,2018,202,Other,Non-treed,Stable
+25,144,1984,197,Forest,Treed,
+25,144,2003,201,Forest,Treed,Stable
+25,144,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,144,2018,201,Forest,Treed,Regrowth
+25,150,1984,197,Other,Non-treed,
+25,150,2018,201,Other,Non-treed,Stable
+25,151,1984,197,Other,Non-treed,
+25,151,2018,201,Other,Non-treed,Stable
+25,155,1984,188,Other,Non-treed,
+25,155,2018,201,Other,Non-treed,Stable
+25,160,1984,197,Other,Non-treed,
+25,160,2018,202,Other,Non-treed,Stable
+25,161,1984,197,Other,Non-treed,
+25,161,2018,201,Other,Non-treed,Stable
+25,163,1984,197,Other,Non-treed,
+25,163,2018,201,Other,Non-treed,Stable
+25,164,1984,197,Other,Non-treed,
+25,164,2018,201,Other,Non-treed,Stable
+25,165,1984,197,Other,Non-treed,
+25,165,2018,202,Other,Non-treed,Stable
+25,169,1984,197,Other,Non-treed,
+25,169,2018,201,Other,Non-treed,Stable
+25,173,1984,197,Other,Non-treed,
+25,173,2018,202,Other,Non-treed,Stable
+25,172,1984,197,Other,Non-treed,
+25,172,2018,202,Other,Non-treed,Stable
+25,188,1984,197,Other,Non-treed,
+25,188,2018,201,Other,Non-treed,Stable
+25,190,1984,197,Other,Non-treed,
+25,190,2018,202,Other,Non-treed,Stable
+25,191,1984,188,Other,Non-treed,
+25,191,2018,201,Other,Non-treed,Stable
+25,193,1984,188,Forest,Treed,
+25,193,2018,201,Forest,Treed,Stable
+25,195,1984,188,Other,Non-treed,
+25,195,2018,201,Other,Non-treed,Stable
+25,196,1984,188,Other,Non-treed,
+25,196,2018,209,Other,Non-treed,Stable
+25,200,1984,188,Other,Non-treed,
+25,200,2018,201,Other,Non-treed,Stable
+25,201,1984,197,Other,Non-treed,
+25,201,2018,202,Other,Non-treed,Stable
+25,202,1984,252,Other,Non-treed,
+25,202,2018,193,Other,Non-treed,Stable
+25,203,1984,197,Other,Non-treed,
+25,203,2018,202,Other,Non-treed,Stable
+25,205,1984,252,Forest,Treed,
+25,205,2017,198,Forest,Treed,Stable
+25,205,2018,217,Forest,Non-treed,Unknown canopy disturbance
+25,207,1984,197,Other,Non-treed,
+25,207,2018,202,Other,Non-treed,Stable
+25,208,1984,197,Other,Non-treed,
+25,208,2018,202,Other,Non-treed,Stable
+25,212,1984,197,Other,Non-treed,
+25,212,2018,202,Other,Non-treed,Stable
+25,215,1984,188,Other,Non-treed,
+25,215,2018,201,Other,Non-treed,Stable
+25,217,1984,197,Other,Non-treed,
+25,217,2018,202,Other,Non-treed,Stable
+25,218,1984,197,Other,Non-treed,
+25,218,2018,201,Other,Non-treed,Stable
+25,219,1984,197,Other,Non-treed,
+25,219,2018,201,Other,Non-treed,Stable
+25,221,1984,197,Other,Non-treed,
+25,221,2018,202,Other,Non-treed,Stable
+25,222,1984,197,Other,Non-treed,
+25,222,2018,201,Other,Non-treed,Stable
+25,230,1984,252,Forest,Treed,
+25,230,2018,201,Forest,Treed,Stable
+25,231,1984,188,Other,Non-treed,
+25,231,2018,209,Other,Non-treed,Stable
+25,232,1984,197,Other,Non-treed,
+25,232,2018,201,Other,Non-treed,Stable
+25,236,1984,220,Forest,Treed,
+25,236,2018,185,Forest,Treed,Stable
+25,238,1984,188,Other,Non-treed,
+25,238,2018,201,Other,Non-treed,Stable
+25,239,1984,188,Forest,Treed,
+25,239,2018,201,Forest,Treed,Stable
+25,240,1984,197,Other,Non-treed,
+25,240,2018,201,Other,Non-treed,Stable
+25,242,1984,197,Other,Non-treed,
+25,242,2018,202,Other,Non-treed,Stable
+25,243,1984,252,Other,Non-treed,
+25,243,2018,201,Other,Non-treed,Stable
+25,244,1984,197,Forest,Treed,
+25,244,2018,194,Forest,Treed,Stable
+25,246,1984,188,Other,Non-treed,
+25,246,2018,217,Other,Non-treed,Stable
+25,247,1984,188,Other,Non-treed,
+25,247,2018,201,Other,Non-treed,Stable
+25,248,1984,197,Other,Non-treed,
+25,248,2018,202,Other,Non-treed,Stable
+25,250,1984,188,Other,Non-treed,
+25,250,2018,201,Other,Non-treed,Stable
+25,251,1984,245,Forest,Treed,
+25,251,2018,201,Forest,Treed,Stable
+25,252,1984,197,Other,Non-treed,
+25,252,2018,201,Other,Non-treed,Stable
+25,254,1984,188,Other,Non-treed,
+25,254,2018,201,Other,Non-treed,Stable
+25,255,1984,188,Other,Non-treed,
+25,255,2018,201,Other,Non-treed,Stable
+25,256,1984,197,Other,Non-treed,
+25,256,2018,202,Other,Non-treed,Stable
+25,258,1984,197,Other,Non-treed,
+25,258,2018,202,Other,Non-treed,Stable
+25,261,1984,197,Other,Non-treed,
+25,261,2018,201,Other,Non-treed,Stable
+25,262,1984,197,Forest,Treed,
+25,262,1990,197,Forest,Treed,Stable
+25,262,1991,208,Other,Non-treed,Unknown canopy disturbance
+25,262,2018,194,Other,Non-treed,Stable
+25,263,1984,197,Forest,Treed,
+25,263,2018,194,Forest,Treed,Stable
+25,264,1984,188,Other,Non-treed,
+25,264,2018,201,Other,Non-treed,Stable
+25,265,1984,197,Other,Non-treed,
+25,265,2018,201,Other,Non-treed,Stable
+25,266,1984,188,Other,Non-treed,
+25,266,2018,201,Other,Non-treed,Stable
+25,267,1984,197,Other,Non-treed,
+25,267,2018,201,Other,Non-treed,Stable
+25,271,1984,197,Other,Non-treed,
+25,271,2018,201,Other,Non-treed,Stable
+25,273,1984,188,Other,Non-treed,
+25,273,2018,201,Other,Non-treed,Stable
+25,275,1984,188,Forest,Treed,
+25,275,2018,201,Forest,Treed,Stable
+25,278,1984,197,Other,Non-treed,
+25,278,2018,201,Other,Non-treed,Stable
+25,280,1984,197,Other,Non-treed,
+25,280,2018,201,Other,Non-treed,Stable
+25,282,1984,188,Forest,Treed,
+25,282,2018,202,Forest,Treed,Stable
+25,284,1984,188,Other,Non-treed,
+25,284,2018,201,Other,Non-treed,Stable
+25,289,1984,188,Other,Non-treed,
+25,289,2018,201,Other,Non-treed,Stable
+25,290,1984,197,Other,Non-treed,
+25,290,2018,202,Other,Non-treed,Stable
+25,295,1984,188,Other,Non-treed,
+25,295,2018,201,Other,Non-treed,Stable
+25,308,1984,188,Other,Non-treed,
+25,308,2018,202,Other,Non-treed,Stable
+25,317,1984,188,Forest,Treed,
+25,317,1991,207,Forest,Treed,Stable
+25,317,1992,194,Other,Non-treed,Unknown canopy disturbance
+25,317,2018,201,Other,Non-treed,Stable
+25,318,1984,197,Other,Non-treed,
+25,318,2018,202,Other,Non-treed,Stable
+25,319,1984,197,Other,Non-treed,
+25,319,2018,202,Other,Non-treed,Stable
+25,320,1984,197,Other,Non-treed,
+25,320,2018,194,Other,Non-treed,Stable
+25,321,1984,197,Other,Non-treed,
+25,321,2018,201,Other,Non-treed,Stable
+25,322,1984,197,Other,Non-treed,
+25,322,2018,201,Other,Non-treed,Stable
+25,323,1984,179,Forest,Treed,
+25,323,2018,193,Forest,Treed,Stable
+25,324,1984,197,Forest,Treed,
+25,324,2018,202,Forest,Treed,Stable
+25,327,1984,188,Forest,Treed,
+25,327,2018,209,Forest,Treed,Stable
+25,328,1984,197,Other,Non-treed,
+25,328,2018,201,Other,Non-treed,Stable
+25,329,1984,188,Other,Non-treed,
+25,329,2018,185,Other,Non-treed,Stable
+25,330,1984,188,Forest,Treed,
+25,330,2018,209,Forest,Treed,Stable
+25,331,1984,197,Forest,Treed,
+25,331,1988,208,Forest,Treed,Stable
+25,331,1989,210,Other,Non-treed,Unknown canopy disturbance
+25,331,2018,201,Other,Non-treed,Stable
+25,335,1984,197,Other,Non-treed,
+25,335,2018,201,Other,Non-treed,Stable
+25,336,1984,197,Other,Non-treed,
+25,336,2018,201,Other,Non-treed,Stable
+25,338,1984,197,Forest,Treed,
+25,338,2003,192,Forest,Treed,Stable
+25,338,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,338,2018,201,Forest,Treed,Regrowth
+25,340,1984,197,Other,Non-treed,
+25,340,2018,202,Other,Non-treed,Stable
+25,342,1984,197,Other,Non-treed,
+25,342,2018,202,Other,Non-treed,Stable
+25,345,1984,197,Other,Non-treed,
+25,345,2018,202,Other,Non-treed,Stable
+25,347,1984,197,Other,Non-treed,
+25,347,2018,202,Other,Non-treed,Stable
+25,354,1984,197,Other,Non-treed,
+25,354,2018,201,Other,Non-treed,Stable
+25,356,1984,197,Other,Non-treed,
+25,356,2018,201,Other,Non-treed,Stable
+25,357,1984,197,Other,Non-treed,
+25,357,2018,194,Other,Non-treed,Stable
+25,359,1984,252,Forest,Treed,
+25,359,2018,217,Forest,Treed,Stable
+25,360,1984,197,Other,Non-treed,
+25,360,2018,202,Other,Non-treed,Stable
+25,361,1984,197,Other,Non-treed,
+25,361,2018,201,Other,Non-treed,Stable
+25,365,1984,197,Other,Non-treed,
+25,365,2018,201,Other,Non-treed,Stable
+25,367,1984,188,Other,Non-treed,
+25,367,2018,201,Other,Non-treed,Stable
+25,370,1984,197,Other,Non-treed,
+25,370,2018,201,Other,Non-treed,Stable
+25,373,1984,197,Other,Non-treed,
+25,373,2018,202,Other,Non-treed,Stable
+25,384,1984,197,Other,Non-treed,
+25,384,2018,202,Other,Non-treed,Stable
+25,387,1984,197,Other,Non-treed,
+25,387,2018,201,Other,Non-treed,Stable
+25,395,1984,188,Forest,Treed,
+25,395,2018,193,Forest,Treed,Stable
+25,400,1984,197,Other,Non-treed,
+25,400,2018,202,Other,Non-treed,Stable
+25,404,1984,197,Other,Non-treed,
+25,404,2018,202,Other,Non-treed,Stable
+25,408,1984,197,Other,Non-treed,
+25,408,2018,202,Other,Non-treed,Stable
+25,410,1984,197,Other,Non-treed,
+25,410,2018,201,Other,Non-treed,Stable
+25,417,1984,197,Other,Non-treed,
+25,417,2018,201,Other,Non-treed,Stable
+25,418,1984,252,Other,Non-treed,
+25,418,2018,193,Other,Non-treed,Stable
+25,420,1984,197,Other,Non-treed,
+25,420,2018,202,Other,Non-treed,Stable
+25,422,1984,252,Forest,Treed,
+25,422,2018,193,Forest,Treed,Stable
+25,423,1984,188,Forest,Treed,
+25,423,2018,209,Forest,Treed,Stable
+25,426,1984,197,Other,Non-treed,
+25,426,2018,201,Other,Non-treed,Stable
+25,427,1984,197,Other,Non-treed,
+25,427,2018,201,Other,Non-treed,Stable
+25,428,1984,197,Other,Non-treed,
+25,428,2018,201,Other,Non-treed,Stable
+25,429,1984,197,Other,Non-treed,
+25,429,2018,202,Other,Non-treed,Stable
+25,430,1984,197,Other,Non-treed,
+25,430,2018,202,Other,Non-treed,Stable
+25,433,1984,197,Other,Non-treed,
+25,433,2018,201,Other,Non-treed,Stable
+25,434,1984,188,Forest,Treed,
+25,434,1990,204,Forest,Treed,Stable
+25,434,1991,207,Other,Non-treed,Unknown canopy disturbance
+25,434,2018,201,Other,Non-treed,Stable
+25,447,1984,188,Other,Non-treed,
+25,447,2018,209,Other,Non-treed,Stable
+25,452,1984,197,Other,Non-treed,
+25,452,2018,201,Other,Non-treed,Stable
+25,456,1984,197,Other,Non-treed,
+25,456,2018,202,Other,Non-treed,Stable
+25,460,1984,197,Other,Non-treed,
+25,460,2018,201,Other,Non-treed,Stable
+25,479,1984,197,Other,Non-treed,
+25,479,2018,201,Other,Non-treed,Stable
+25,485,1984,172,Other,Non-treed,
+25,485,2018,193,Other,Non-treed,Stable
+25,486,1984,197,Other,Non-treed,
+25,486,2018,201,Other,Non-treed,Stable
+25,491,1984,197,Other,Non-treed,
+25,491,2018,201,Other,Non-treed,Stable
+25,492,1984,197,Other,Non-treed,
+25,492,2018,201,Other,Non-treed,Stable
+25,493,1984,197,Other,Non-treed,
+25,493,2018,201,Other,Non-treed,Stable
+25,494,1984,197,Other,Non-treed,
+25,494,2018,202,Other,Non-treed,Stable
+25,1,1984,197,Forest,Treed,
+25,1,2016,196,Forest,Treed,Stable
+25,1,2017,199,Forest,Non-treed,Unknown canopy disturbance
+25,1,2018,194,Forest,Non-treed,Stable
+25,4,1984,188,Forest,Treed,
+25,4,2002,197,Forest,Treed,Stable
+25,4,2004,155,Forest,Non-treed,Unknown canopy disturbance
+25,4,2007,203,Forest,Treed,Regrowth
+25,4,2018,217,Forest,Treed,Stable
+25,9,1984,188,Forest,Treed,
+25,9,2018,201,Forest,Treed,Stable
+25,10,1984,188,Forest,Treed,
+25,10,2007,203,Forest,Treed,Stable
+25,10,2008,198,Forest,Non-treed,Unknown canopy disturbance
+25,10,2018,201,Forest,Non-treed,Stable
+25,15,1984,179,Other,Non-treed,
+25,15,2018,201,Other,Non-treed,Stable
+25,19,1984,252,Forest,Treed,
+25,19,1987,212,Forest,Treed,Stable
+25,19,1988,151,Other,Non-treed,Harvest
+25,19,2018,201,Other,Non-treed,Stable
+25,25,1984,188,Other,Non-treed,
+25,25,2018,201,Other,Non-treed,Stable
+25,26,1984,197,Other,Non-treed,
+25,26,2018,202,Other,Non-treed,Stable
+25,27,1984,188,Other,Non-treed,
+25,27,2018,201,Other,Non-treed,Stable
+25,37,1984,188,Forest,Treed,
+25,37,2018,217,Forest,Treed,Stable
+25,41,1984,188,Forest,Treed,
+25,41,1986,97,Forest,Treed,Stable
+25,41,1987,148,Forest,Non-treed,Unknown canopy disturbance
+25,41,1994,215,Forest,Treed,Regrowth
+25,41,1996,157,Forest,Non-treed,Unknown canopy disturbance
+25,41,1997,207,Forest,Treed,Regrowth
+25,41,2007,203,Forest,Treed,Stable
+25,41,2008,198,Forest,Treed,Unknown canopy disturbance
+25,41,2016,196,Forest,Treed,Stable
+25,41,2017,198,Forest,Non-treed,Unknown canopy disturbance
+25,41,2018,209,Forest,Non-treed,Stable
+25,42,1984,197,Forest,Treed,
+25,42,2018,201,Forest,Treed,Stable
+25,47,1984,197,Forest,Treed,
+25,47,2012,177,Forest,Treed,Stable
+25,47,2013,203,Other,Non-treed,Unknown canopy disturbance
+25,47,2018,202,Other,Non-treed,Stable
+25,49,1984,197,Other,Non-treed,
+25,49,2018,202,Other,Non-treed,Stable
+25,52,1984,197,Forest,Treed,
+25,52,1989,178,Forest,Treed,Stable
+25,52,1991,207,Forest,Non-treed,Unknown canopy disturbance
+25,52,1997,200,Forest,Treed,Regrowth
+25,52,2018,202,Forest,Treed,Stable
+25,53,1984,197,Forest,Non-treed,
+25,53,1986,330,Forest,Treed,Regrowth
+25,53,1998,187,Forest,Treed,Stable
+25,53,1999,198,Forest,Non-treed,Unknown canopy disturbance
+25,53,2018,194,Forest,Treed,Regrowth
+25,56,1984,188,Other,Non-treed,
+25,56,2018,201,Other,Non-treed,Stable
+25,60,1984,220,Forest,Treed,
+25,60,1992,114,Forest,Treed,Stable
+25,60,1993,116,Forest,Non-treed,Unknown canopy disturbance
+25,60,2018,217,Forest,Treed,Regrowth
+25,63,1984,188,Forest,Treed,
+25,63,1989,162,Forest,Treed,Stable
+25,63,1990,156,Forest,Treed,Unknown canopy disturbance
+25,63,2011,143,Forest,Treed,Stable
+25,63,2013,203,Forest,Non-treed,Harvest
+25,63,2018,201,Forest,Treed,Regrowth
+25,64,1984,172,Other,Non-treed,
+25,64,2018,193,Other,Non-treed,Stable
+25,65,1984,188,Other,Non-treed,
+25,65,2018,201,Other,Non-treed,Stable
+25,66,1984,252,Other,Non-treed,
+25,66,2018,209,Other,Non-treed,Stable
+25,67,1984,188,Forest,Treed,
+25,67,1986,186,Forest,Treed,Stable
+25,67,1987,148,Forest,Non-treed,Unknown canopy disturbance
+25,67,1989,137,Forest,Treed,Regrowth
+25,67,2016,196,Forest,Treed,Stable
+25,67,2017,198,Forest,Non-treed,Unknown canopy disturbance
+25,67,2018,201,Forest,Non-treed,Stable
+25,69,1984,197,Other,Non-treed,
+25,69,2018,194,Other,Non-treed,Stable
+25,70,1984,252,Forest,Treed,
+25,70,1990,188,Forest,Treed,Stable
+25,70,1991,207,Forest,Non-treed,Unknown canopy disturbance
+25,70,1993,196,Forest,Treed,Regrowth
+25,70,2018,193,Forest,Treed,Stable
+25,71,1984,188,Forest,Treed,
+25,71,2017,198,Forest,Treed,Stable
+25,71,2018,217,Forest,Non-treed,Unknown canopy disturbance
+25,72,1984,197,Forest,Treed,
+25,72,2018,194,Forest,Treed,Stable
+25,73,1984,197,Forest,Treed,
+25,73,2018,202,Forest,Treed,Stable
+25,76,1984,188,Other,Non-treed,
+25,76,2018,201,Other,Non-treed,Stable
+25,78,1984,252,Other,Non-treed,
+25,78,2018,241,Other,Non-treed,Stable
+25,79,1984,197,Other,Non-treed,
+25,79,2018,201,Other,Non-treed,Stable
+25,80,1984,197,Forest,Treed,
+25,80,2003,201,Forest,Treed,Stable
+25,80,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,80,2010,211,Forest,Treed,Regrowth
+25,80,2018,201,Forest,Treed,Stable
+25,5,1984,211,Forest,Treed,
+25,5,1994,183,Forest,Treed,Stable
+25,5,1996,173,Forest,Non-treed,Unknown canopy disturbance
+25,5,2003,199,Forest,Treed,Regrowth
+25,5,2016,203,Forest,Treed,Stable
+25,5,2017,205,Forest,Non-treed,Harvest
+25,5,2018,193,Forest,Non-treed,Stable
+25,7,1984,197,Forest,Treed,
+25,7,2018,201,Forest,Treed,Stable
+25,8,1984,197,Forest,Treed,
+25,8,1986,186,Forest,Treed,Stable
+25,8,1989,162,Forest,Non-treed,Unknown canopy disturbance
+25,8,1993,196,Forest,Treed,Regrowth
+25,8,2000,201,Forest,Treed,Stable
+25,8,2001,170,Forest,Non-treed,Unknown canopy disturbance
+25,8,2004,203,Forest,Treed,Regrowth
+25,8,2017,198,Forest,Treed,Stable
+25,8,2018,129,Forest,Non-treed,Unknown canopy disturbance
+25,16,1984,197,Forest,Treed,
+25,16,2000,201,Forest,Treed,Stable
+25,16,2001,171,Forest,Non-treed,Unknown canopy disturbance
+25,16,2006,200,Forest,Treed,Regrowth
+25,16,2013,203,Forest,Treed,Stable
+25,16,2014,279,Forest,Treed,Unknown canopy disturbance
+25,16,2018,201,Forest,Treed,Stable
+25,17,1984,197,Forest,Non-treed,
+25,17,1993,196,Forest,Treed,Regrowth
+25,17,2018,121,Forest,Treed,Stable
+25,46,1984,332,Forest,Non-treed,
+25,46,1990,197,Forest,Treed,Regrowth
+25,46,1999,198,Forest,Treed,Stable
+25,46,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,46,2008,199,Forest,Treed,Regrowth
+25,46,2018,201,Forest,Treed,Stable
+25,48,1984,261,Forest,Treed,
+25,48,2006,201,Forest,Treed,Stable
+25,48,2007,180,Forest,Non-treed,Unknown canopy disturbance
+25,48,2010,212,Forest,Treed,Regrowth
+25,48,2018,202,Forest,Treed,Stable
+25,82,1984,197,Forest,Non-treed,
+25,82,1999,198,Forest,Treed,Regrowth
+25,82,2018,169,Forest,Treed,Stable
+25,83,1984,252,Other,Non-treed,
+25,83,2018,209,Other,Non-treed,Stable
+25,84,1984,179,Forest,Treed,
+25,84,2014,197,Forest,Treed,Stable
+25,84,2018,169,Forest,Treed,Unknown canopy disturbance
+25,85,1984,197,Forest,Treed,
+25,85,2018,201,Forest,Treed,Stable
+25,89,1984,211,Forest,Treed,
+25,89,2018,193,Forest,Treed,Stable
+25,90,1984,197,Forest,Treed,
+25,90,1989,201,Forest,Treed,Stable
+25,90,1990,197,Forest,Non-treed,Unknown canopy disturbance
+25,90,2000,200,Forest,Treed,Regrowth
+25,90,2018,201,Forest,Treed,Stable
+25,93,1984,188,Other,Non-treed,
+25,93,2018,209,Other,Non-treed,Stable
+25,94,1984,197,Forest,Non-treed,
+25,94,1993,196,Forest,Treed,Regrowth
+25,94,2005,197,Forest,Treed,Stable
+25,94,2006,193,Forest,Non-treed,Unknown canopy disturbance
+25,94,2018,202,Forest,Treed,Regrowth
+25,95,1984,197,Other,Non-treed,
+25,95,2018,202,Other,Non-treed,Stable
+25,98,1984,197,Forest,Treed,
+25,98,1988,208,Forest,Treed,Stable
+25,98,1991,200,Forest,Non-treed,Unknown canopy disturbance
+25,98,1996,198,Forest,Treed,Regrowth
+25,98,2004,203,Forest,Treed,Stable
+25,98,2005,197,Forest,Non-treed,Unknown canopy disturbance
+25,98,2008,199,Forest,Treed,Regrowth
+25,98,2018,201,Forest,Treed,Stable
+25,101,1984,211,Forest,Treed,
+25,101,2001,201,Forest,Treed,Stable
+25,101,2002,164,Forest,Non-treed,Unknown canopy disturbance
+25,101,2007,194,Forest,Treed,Stable
+25,101,2008,158,Forest,Non-treed,Unknown canopy disturbance
+25,101,2016,203,Forest,Treed,Regrowth
+25,101,2017,214,Forest,Non-treed,Unknown canopy disturbance
+25,101,2018,193,Forest,Treed,Regrowth
+25,102,1984,197,Forest,Treed,
+25,102,2005,197,Forest,Treed,Stable
+25,102,2006,200,Forest,Non-treed,Unknown canopy disturbance
+25,102,2010,203,Forest,Treed,Regrowth
+25,102,2018,194,Forest,Treed,Stable
+25,103,1984,188,Forest,Treed,
+25,103,2018,201,Forest,Treed,Stable
+25,104,1984,197,Forest,Treed,
+25,104,2018,201,Forest,Treed,Stable
+25,106,1984,197,Other,Non-treed,
+25,106,2018,202,Other,Non-treed,Stable
+25,107,1984,188,Forest,Treed,
+25,107,2018,201,Forest,Treed,Stable
+25,109,1984,188,Other,Non-treed,
+25,109,2018,217,Other,Non-treed,Stable
+25,115,1984,197,Forest,Treed,
+25,115,1998,203,Forest,Treed,Stable
+25,115,1999,198,Other,Non-treed,Unknown canopy disturbance
+25,115,2018,202,Other,Non-treed,Stable
+25,118,1984,197,Forest,Treed,
+25,118,1988,208,Forest,Treed,Stable
+25,118,1989,137,Forest,Non-treed,Unknown canopy disturbance
+25,118,1994,192,Forest,Treed,Regrowth
+25,118,2018,202,Forest,Treed,Stable
+25,119,1984,197,Forest,Treed,
+25,119,2018,194,Forest,Treed,Stable
+25,120,1984,211,Forest,Treed,
+25,120,2018,193,Forest,Treed,Stable
+25,121,1984,197,Forest,Treed,
+25,121,1991,207,Forest,Treed,Stable
+25,121,1992,203,Forest,Non-treed,Unknown canopy disturbance
+25,121,1996,198,Forest,Treed,Regrowth
+25,121,2018,201,Forest,Treed,Stable
+25,123,1984,188,Forest,Treed,
+25,123,1993,196,Forest,Treed,Stable
+25,123,1994,192,Forest,Non-treed,Unknown canopy disturbance
+25,123,2000,176,Forest,Treed,Regrowth
+25,123,2007,203,Forest,Treed,Stable
+25,123,2008,199,Forest,Non-treed,Harvest
+25,123,2018,201,Forest,Treed,Regrowth
+25,125,1984,197,Forest,Treed,
+25,125,2018,202,Forest,Treed,Stable
+25,126,1984,220,Other,Non-treed,
+25,126,2018,209,Other,Non-treed,Stable
+25,127,1984,252,Forest,Treed,
+25,127,2018,201,Forest,Treed,Stable
+25,128,1984,172,Forest,Treed,
+25,128,2014,206,Forest,Treed,Stable
+25,128,2015,193,Forest,Non-treed,Harvest
+25,128,2018,216,Forest,Treed,Regrowth
+25,130,1984,197,Forest,Treed,
+25,130,2007,212,Forest,Treed,Stable
+25,130,2009,185,Forest,Non-treed,Unknown canopy disturbance
+25,130,2018,202,Forest,Non-treed,Stable
+25,131,1984,188,Forest,Treed,
+25,131,1986,273,Forest,Treed,Stable
+25,131,1988,135,Forest,Non-treed,Unknown canopy disturbance
+25,131,1991,207,Forest,Treed,Regrowth
+25,131,2018,217,Forest,Treed,Stable
+25,135,1984,197,Forest,Non-treed,
+25,135,1986,193,Forest,Treed,Regrowth
+25,135,2018,202,Forest,Treed,Stable
+25,136,1984,197,Forest,Treed,
+25,136,2018,194,Forest,Treed,Stable
+25,137,1984,252,Forest,Treed,
+25,137,2000,200,Forest,Treed,Stable
+25,137,2001,170,Forest,Non-treed,Unknown canopy disturbance
+25,137,2006,200,Forest,Treed,Regrowth
+25,137,2018,209,Forest,Treed,Stable
+25,139,1984,220,Forest,Treed,
+25,139,2002,197,Forest,Treed,Stable
+25,139,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,139,2008,198,Forest,Treed,Regrowth
+25,139,2018,217,Forest,Treed,Stable
+25,142,1984,188,Forest,Treed,
+25,142,2018,209,Forest,Treed,Stable
+25,145,1984,197,Forest,Treed,
+25,145,1994,192,Forest,Treed,Stable
+25,145,1995,211,Forest,Non-treed,Unknown canopy disturbance
+25,145,2018,202,Forest,Treed,Regrowth
+25,146,1984,188,Other,Non-treed,
+25,146,2018,201,Other,Non-treed,Stable
+25,147,1984,197,Other,Non-treed,
+25,147,2018,201,Other,Non-treed,Stable
+25,148,1984,252,Forest,Treed,
+25,148,2017,198,Forest,Treed,Stable
+25,148,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,149,1984,188,Forest,Treed,
+25,149,2001,202,Forest,Treed,Stable
+25,149,2002,197,Other,Non-treed,Unknown canopy disturbance
+25,149,2018,201,Other,Non-treed,Stable
+25,152,1984,197,Forest,Treed,
+25,152,2003,201,Forest,Treed,Stable
+25,152,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,152,2009,192,Forest,Treed,Regrowth
+25,152,2017,199,Forest,Treed,Stable
+25,152,2018,121,Forest,Non-treed,Unknown canopy disturbance
+25,153,1984,188,Forest,Treed,
+25,153,1990,188,Forest,Treed,Stable
+25,153,1991,207,Forest,Non-treed,Unknown canopy disturbance
+25,153,1993,196,Forest,Treed,Regrowth
+25,153,2018,209,Forest,Treed,Stable
+25,154,1984,197,Other,Non-treed,
+25,154,2018,194,Other,Non-treed,Stable
+25,156,1984,188,Forest,Treed,
+25,156,2003,208,Forest,Treed,Stable
+25,156,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,156,2007,203,Forest,Treed,Regrowth
+25,156,2018,209,Forest,Treed,Stable
+25,159,1984,197,Other,Non-treed,
+25,159,2018,202,Other,Non-treed,Stable
+25,166,1984,197,Other,Non-treed,
+25,166,2018,201,Other,Non-treed,Stable
+25,167,1984,197,Forest,Treed,
+25,167,2018,201,Forest,Treed,Stable
+25,168,1984,188,Forest,Treed,
+25,168,2018,209,Forest,Treed,Stable
+25,170,1984,252,Forest,Treed,
+25,170,2018,193,Forest,Treed,Stable
+25,171,1984,197,Other,Non-treed,
+25,171,2018,202,Other,Non-treed,Stable
+25,174,1984,188,Other,Non-treed,
+25,174,2018,201,Other,Non-treed,Stable
+25,175,1984,163,Forest,Treed,
+25,175,2011,182,Forest,Treed,Stable
+25,175,2012,177,Forest,Non-treed,Unknown canopy disturbance
+25,175,2018,193,Forest,Treed,Regrowth
+25,176,1984,197,Other,Non-treed,
+25,176,2018,201,Other,Non-treed,Stable
+25,177,1984,197,Forest,Treed,
+25,177,2018,201,Forest,Treed,Stable
+25,178,1984,252,Forest,Treed,
+25,178,2005,197,Forest,Treed,Stable
+25,178,2008,182,Forest,Non-treed,Unknown canopy disturbance
+25,178,2017,198,Forest,Treed,Regrowth
+25,178,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,179,1984,188,Forest,Treed,
+25,179,2018,217,Forest,Treed,Stable
+25,180,1984,188,Forest,Treed,
+25,180,2018,217,Forest,Treed,Stable
+25,182,1984,197,Forest,Treed,
+25,182,1986,186,Forest,Treed,Stable
+25,182,1987,173,Forest,Non-treed,Unknown canopy disturbance
+25,182,1989,201,Forest,Treed,Regrowth
+25,182,2018,201,Forest,Treed,Stable
+25,183,1984,197,Other,Non-treed,
+25,183,2018,201,Other,Non-treed,Stable
+25,184,1984,188,Forest,Treed,
+25,184,2018,209,Forest,Treed,Stable
+25,185,1984,197,Other,Non-treed,
+25,185,2018,201,Other,Non-treed,Stable
+25,186,1984,197,Forest,Treed,
+25,186,2018,202,Forest,Treed,Stable
+25,187,1984,197,Other,Non-treed,
+25,187,2018,202,Other,Non-treed,Stable
+25,189,1984,188,Forest,Treed,
+25,189,2018,201,Forest,Treed,Stable
+25,192,1984,197,Forest,Treed,
+25,192,2018,201,Forest,Treed,Stable
+25,194,1984,188,Forest,Treed,
+25,194,2018,217,Forest,Treed,Stable
+25,197,1984,252,Forest,Treed,
+25,197,1998,210,Forest,Treed,Stable
+25,197,1999,229,Forest,Non-treed,Unknown canopy disturbance
+25,197,2018,193,Forest,Treed,Regrowth
+25,199,1984,252,Forest,Treed,
+25,199,1987,212,Forest,Treed,Stable
+25,199,1989,169,Forest,Non-treed,Unknown canopy disturbance
+25,199,1994,183,Forest,Treed,Regrowth
+25,199,2014,206,Forest,Treed,Stable
+25,199,2015,201,Forest,Non-treed,Harvest
+25,199,2016,196,Forest,Treed,Regrowth
+25,199,2018,217,Forest,Treed,Stable
+25,204,1984,188,Forest,Treed,
+25,204,2018,209,Forest,Treed,Stable
+25,206,1984,188,Forest,Treed,
+25,206,2018,201,Forest,Treed,Stable
+25,209,1984,252,Forest,Treed,
+25,209,2001,202,Forest,Treed,Stable
+25,209,2002,213,Forest,Non-treed,Unknown canopy disturbance
+25,209,2010,203,Forest,Treed,Stable
+25,209,2011,206,Forest,Non-treed,Unknown canopy disturbance
+25,209,2013,203,Forest,Treed,Regrowth
+25,209,2017,198,Forest,Treed,Stable
+25,209,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,210,1984,197,Forest,Treed,
+25,210,2018,202,Forest,Treed,Stable
+25,211,1984,188,Forest,Treed,
+25,211,1985,222,Forest,Treed,Stable
+25,211,1986,273,Forest,Non-treed,Unknown canopy disturbance
+25,211,2001,202,Forest,Treed,Regrowth
+25,211,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,211,2007,203,Forest,Treed,Regrowth
+25,211,2012,177,Forest,Treed,Stable
+25,211,2013,235,Forest,Non-treed,Unknown canopy disturbance
+25,211,2018,201,Forest,Non-treed,Stable
+25,213,1984,197,Forest,Treed,
+25,213,1997,200,Forest,Treed,Stable
+25,213,1998,203,Forest,Treed,Unknown canopy disturbance
+25,213,2013,203,Forest,Treed,Stable
+25,213,2014,198,Forest,Non-treed,Unknown canopy disturbance
+25,213,2018,201,Forest,Treed,Regrowth
+25,214,1984,188,Forest,Treed,
+25,214,2010,211,Forest,Treed,Stable
+25,214,2011,206,Forest,Non-treed,Harvest
+25,214,2018,201,Forest,Non-treed,Stable
+25,216,1984,188,Forest,Treed,
+25,216,1995,202,Forest,Treed,Stable
+25,216,1996,221,Forest,Treed,Unknown canopy disturbance
+25,216,2018,202,Forest,Treed,Stable
+25,220,1984,188,Forest,Treed,
+25,220,2018,201,Forest,Treed,Stable
+25,223,1984,197,Forest,Treed,
+25,223,2007,203,Forest,Treed,Stable
+25,223,2008,174,Forest,Treed,Unknown canopy disturbance
+25,223,2018,201,Forest,Treed,Stable
+25,224,1984,252,Forest,Treed,
+25,224,1990,188,Forest,Non-treed,Stable
+25,224,1991,207,Forest,Treed,Harvest
+25,224,1996,196,Forest,Treed,Regrowth
+25,224,2018,201,Forest,Treed,Stable
+25,225,1984,197,Forest,Treed,
+25,225,2007,203,Forest,Treed,Stable
+25,225,2008,199,Other,Non-treed,Unknown canopy disturbance
+25,225,2018,201,Other,Non-treed,Stable
+25,226,1984,197,Forest,Treed,
+25,226,2018,202,Forest,Treed,Stable
+25,227,1984,252,Other,Non-treed,
+25,227,2018,217,Other,Non-treed,Stable
+25,228,1984,197,Other,Non-treed,
+25,228,2018,201,Other,Non-treed,Stable
+25,229,1984,197,Other,Non-treed,
+25,229,2018,201,Other,Non-treed,Stable
+25,233,1984,188,Other,Non-treed,
+25,233,2018,202,Other,Non-treed,Stable
+25,234,1984,197,Forest,Treed,
+25,234,2017,198,Forest,Treed,Stable
+25,234,2018,202,Forest,Non-treed,Unknown canopy disturbance
+25,237,1984,188,Forest,Treed,
+25,237,1995,186,Forest,Treed,Stable
+25,237,1996,157,Forest,Treed,Harvest
+25,237,2013,203,Forest,Treed,Stable
+25,237,2014,190,Forest,Non-treed,Harvest
+25,237,2018,217,Forest,Treed,Regrowth
+25,241,1984,252,Forest,Non-treed,
+25,241,2002,197,Forest,Non-treed,Stable
+25,241,2003,208,Forest,Treed,Regrowth
+25,241,2018,217,Forest,Treed,Stable
+25,245,1984,197,Forest,Treed,
+25,245,1995,202,Forest,Treed,Stable
+25,245,1996,221,Forest,Non-treed,Unknown canopy disturbance
+25,245,2001,202,Forest,Treed,Regrowth
+25,245,2009,201,Forest,Treed,Stable
+25,245,2010,211,Forest,Non-treed,Harvest
+25,245,2018,201,Forest,Non-treed,Stable
+25,253,1984,108,Forest,Non-treed,
+25,253,1986,273,Forest,Non-treed,Stable
+25,253,1988,215,Forest,Treed,Regrowth
+25,253,2018,217,Forest,Treed,Stable
+25,268,1984,252,Forest,Treed,
+25,268,1993,196,Forest,Treed,Stable
+25,268,1994,215,Forest,Non-treed,Unknown canopy disturbance
+25,268,2018,201,Forest,Non-treed,Stable
+25,269,1984,197,Forest,Non-treed,
+25,269,1999,198,Forest,Non-treed,Stable
+25,269,2001,203,Forest,Treed,Regrowth
+25,269,2018,201,Forest,Treed,Stable
+25,270,1984,197,Forest,Non-treed,
+25,270,1999,198,Forest,Non-treed,Stable
+25,270,2018,202,Forest,Treed,Regrowth
+25,272,1984,252,Forest,Treed,
+25,272,2018,201,Forest,Treed,Stable
+25,276,1984,197,Forest,Treed,
+25,276,2018,194,Forest,Treed,Stable
+25,277,1984,197,Forest,Treed,
+25,277,1998,203,Forest,Treed,Stable
+25,277,1999,198,Forest,Non-treed,Unknown canopy disturbance
+25,277,2006,201,Forest,Treed,Regrowth
+25,277,2018,201,Forest,Treed,Stable
+25,281,1984,197,Forest,Treed,
+25,281,2003,201,Forest,Treed,Stable
+25,281,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,281,2008,199,Forest,Treed,Regrowth
+25,281,2018,201,Forest,Treed,Stable
+25,286,1984,188,Other,Non-treed,
+25,286,2018,209,Other,Non-treed,Stable
+25,287,1984,197,Forest,Treed,
+25,287,2018,201,Forest,Treed,Stable
+25,288,1984,188,Other,Non-treed,
+25,288,2018,201,Other,Non-treed,Stable
+25,291,1984,188,Forest,Treed,
+25,291,2008,198,Forest,Treed,Stable
+25,291,2009,224,Forest,Non-treed,Unknown canopy disturbance
+25,291,2011,222,Forest,Treed,Harvest
+25,291,2018,201,Forest,Treed,Stable
+25,292,1984,188,Forest,Non-treed,
+25,292,1992,203,Forest,Non-treed,Stable
+25,292,1994,192,Forest,Treed,Regrowth
+25,292,2018,201,Forest,Treed,Stable
+25,293,1984,211,Forest,Treed,
+25,293,2016,203,Forest,Treed,Stable
+25,293,2017,205,Forest,Non-treed,Unknown canopy disturbance
+25,293,2018,201,Forest,Non-treed,Stable
+25,294,1984,197,Forest,Treed,
+25,294,1991,200,Forest,Treed,Stable
+25,294,1992,203,Forest,Non-treed,Unknown canopy disturbance
+25,294,2003,201,Forest,Treed,Regrowth
+25,294,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,294,2018,201,Forest,Treed,Regrowth
+25,298,1984,188,Forest,Treed,
+25,298,2012,177,Forest,Treed,Stable
+25,298,2013,195,Forest,Non-treed,Harvest
+25,298,2018,201,Forest,Non-treed,Stable
+25,299,1984,252,Forest,Treed,
+25,299,2005,189,Forest,Treed,Stable
+25,299,2006,184,Forest,Non-treed,Unknown canopy disturbance
+25,299,2018,217,Forest,Treed,Regrowth
+25,300,1984,188,Forest,Treed,
+25,300,2018,201,Forest,Treed,Stable
+25,301,1984,197,Forest,Treed,
+25,301,2018,202,Forest,Treed,Stable
+25,302,1984,197,Other,Non-treed,
+25,302,2018,201,Other,Non-treed,Stable
+25,303,1984,197,Other,Non-treed,
+25,303,2018,202,Other,Non-treed,Stable
+25,304,1984,179,Other,Non-treed,
+25,304,2018,201,Other,Non-treed,Stable
+25,305,1984,188,Other,Non-treed,
+25,305,2018,201,Other,Non-treed,Stable
+25,307,1984,252,Forest,Treed,
+25,307,2018,201,Forest,Treed,Stable
+25,309,1984,220,Forest,Treed,
+25,309,2018,201,Forest,Treed,Stable
+25,310,1984,197,Forest,Treed,
+25,310,1989,202,Forest,Treed,Stable
+25,310,1990,197,Forest,Non-treed,Unknown canopy disturbance
+25,310,1993,196,Forest,Treed,Regrowth
+25,310,2001,202,Forest,Treed,Stable
+25,310,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,310,2018,194,Forest,Non-treed,Stable
+25,311,1984,188,Forest,Treed,
+25,311,1993,196,Forest,Treed,Stable
+25,311,1994,215,Forest,Non-treed,Unknown canopy disturbance
+25,311,2002,197,Forest,Non-treed,Stable
+25,311,2004,203,Forest,Treed,Regrowth
+25,311,2018,217,Forest,Treed,Stable
+25,312,1984,188,Forest,Treed,
+25,312,2003,208,Forest,Treed,Stable
+25,312,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,312,2018,217,Forest,Treed,Regrowth
+25,314,1984,197,Forest,Non-treed,
+25,314,1999,198,Forest,Non-treed,Stable
+25,314,2002,197,Forest,Treed,Regrowth
+25,314,2018,201,Forest,Treed,Stable
+25,315,1984,188,Forest,Treed,
+25,315,1998,210,Forest,Treed,Stable
+25,315,1999,197,Forest,Non-treed,Unknown canopy disturbance
+25,315,2003,192,Forest,Treed,Regrowth
+25,315,2018,193,Forest,Treed,Stable
+25,316,1984,245,Forest,Treed,
+25,316,2018,201,Forest,Treed,Stable
+25,332,1984,172,Forest,Treed,
+25,332,1993,196,Forest,Treed,Stable
+25,332,1996,205,Other,Non-treed,Harvest
+25,332,2018,193,Other,Non-treed,Stable
+25,333,1984,188,Other,Non-treed,
+25,333,2018,201,Other,Non-treed,Stable
+25,334,1984,252,Forest,Treed,
+25,334,2018,217,Forest,Treed,Stable
+25,337,1984,252,Other,Non-treed,
+25,337,2018,193,Other,Non-treed,Stable
+25,339,1984,252,Forest,Treed,
+25,339,2004,155,Forest,Treed,Stable
+25,339,2005,189,Forest,Non-treed,Harvest
+25,339,2009,224,Forest,Treed,Regrowth
+25,339,2018,201,Forest,Treed,Stable
+25,341,1984,252,Forest,Treed,
+25,341,1985,222,Forest,Treed,Stable
+25,341,1986,273,Forest,Non-treed,Harvest
+25,341,1998,194,Forest,Treed,Regrowth
+25,341,2018,217,Forest,Treed,Stable
+25,343,1984,188,Forest,Treed,
+25,343,2003,192,Forest,Treed,Stable
+25,343,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,343,2010,203,Forest,Treed,Regrowth
+25,343,2018,201,Forest,Treed,Stable
+25,344,1984,197,Forest,Treed,
+25,344,1985,199,Forest,Treed,Stable
+25,344,1986,202,Forest,Non-treed,Unknown canopy disturbance
+25,344,1993,196,Forest,Treed,Regrowth
+25,344,2000,201,Forest,Treed,Stable
+25,344,2001,202,Forest,Non-treed,Unknown canopy disturbance
+25,344,2005,197,Forest,Treed,Regrowth
+25,344,2016,197,Forest,Treed,Stable
+25,344,2017,199,Forest,Non-treed,Unknown canopy disturbance
+25,344,2018,194,Forest,Non-treed,Stable
+25,346,1984,197,Forest,Treed,
+25,346,1994,192,Forest,Treed,Stable
+25,346,1996,198,Forest,Non-treed,Unknown canopy disturbance
+25,346,2003,201,Forest,Treed,Regrowth
+25,346,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,346,2018,201,Forest,Treed,Regrowth
+25,348,1984,188,Forest,Treed,
+25,348,1985,206,Forest,Treed,Stable
+25,348,1986,202,Forest,Non-treed,Unknown canopy disturbance
+25,348,1993,196,Forest,Treed,Regrowth
+25,348,2001,202,Forest,Treed,Stable
+25,348,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,348,2007,203,Forest,Treed,Regrowth
+25,348,2017,199,Forest,Treed,Stable
+25,348,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,349,1984,197,Other,Non-treed,
+25,349,2018,194,Other,Non-treed,Stable
+25,350,1984,197,Forest,Treed,
+25,350,2018,202,Forest,Treed,Stable
+25,352,1984,197,Forest,Treed,
+25,352,2017,199,Forest,Treed,Stable
+25,352,2018,202,Forest,Non-treed,Unknown canopy disturbance
+25,353,1984,197,Forest,Treed,
+25,353,1987,189,Forest,Treed,Stable
+25,353,1988,224,Forest,Non-treed,Unknown canopy disturbance
+25,353,2001,202,Forest,Treed,Regrowth
+25,353,2017,198,Forest,Treed,Stable
+25,353,2018,194,Forest,Non-treed,Unknown canopy disturbance
+25,358,1984,197,Forest,Treed,
+25,358,2018,201,Forest,Treed,Stable
+25,362,1984,197,Forest,Treed,
+25,362,2018,201,Forest,Treed,Stable
+25,363,1984,220,Other,Non-treed,
+25,363,2018,209,Other,Non-treed,Stable
+25,364,1984,197,Forest,Treed,
+25,364,2018,194,Forest,Treed,Stable
+25,366,1984,188,Forest,Treed,
+25,366,1991,207,Forest,Treed,Stable
+25,366,1992,194,Forest,Non-treed,Unknown canopy disturbance
+25,366,1996,205,Forest,Treed,Regrowth
+25,366,2012,177,Forest,Treed,Stable
+25,366,2013,203,Forest,Non-treed,Unknown canopy disturbance
+25,366,2018,217,Forest,Treed,Regrowth
+25,368,1984,188,Forest,Treed,
+25,368,2007,203,Forest,Treed,Stable
+25,368,2009,176,Forest,Non-treed,Harvest
+25,368,2018,217,Forest,Treed,Regrowth
+25,369,1984,188,Forest,Treed,
+25,369,1989,169,Forest,Treed,Stable
+25,369,1990,188,Forest,Non-treed,Unknown canopy disturbance
+25,369,1993,196,Forest,Treed,Regrowth
+25,369,2001,202,Forest,Treed,Stable
+25,369,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,369,2015,201,Forest,Treed,Regrowth
+25,369,2016,196,Forest,Treed,Unknown canopy disturbance
+25,369,2018,201,Forest,Treed,Stable
+25,371,1984,211,Other,Non-treed,
+25,371,2018,208,Other,Non-treed,Stable
+25,372,1984,197,Forest,Non-treed,
+25,372,2000,200,Forest,Treed,Regrowth
+25,372,2001,202,Forest,Non-treed,Unknown canopy disturbance
+25,372,2008,199,Forest,Treed,Regrowth
+25,372,2018,201,Forest,Treed,Stable
+25,374,1984,188,Forest,Treed,
+25,374,2003,208,Forest,Treed,Stable
+25,374,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,374,2018,201,Forest,Treed,Regrowth
+25,376,1984,197,Forest,Non-treed,
+25,376,1999,198,Forest,Non-treed,Stable
+25,376,2002,197,Forest,Treed,Regrowth
+25,376,2018,201,Forest,Treed,Stable
+25,379,1984,179,Forest,Treed,
+25,379,2018,216,Forest,Treed,Stable
+25,380,1984,188,Forest,Treed,
+25,380,1991,191,Forest,Treed,Stable
+25,380,1992,194,Forest,Non-treed,Unknown canopy disturbance
+25,380,1994,160,Forest,Treed,Regrowth
+25,380,2018,201,Forest,Treed,Stable
+25,382,1984,188,Forest,Treed,
+25,382,2015,201,Forest,Treed,Stable
+25,382,2016,196,Forest,Non-treed,Harvest
+25,382,2018,217,Forest,Non-treed,Stable
+25,385,1984,188,Forest,Non-treed,
+25,385,1995,202,Forest,Treed,Regrowth
+25,385,2010,203,Forest,Treed,Stable
+25,385,2011,182,Forest,Non-treed,Unknown canopy disturbance
+25,385,2018,193,Forest,Treed,Regrowth
+25,386,1984,197,Forest,Treed,
+25,386,2017,199,Forest,Treed,Stable
+25,386,2018,194,Forest,Treed,Unknown canopy disturbance
+25,388,1984,188,Forest,Treed,
+25,388,2018,185,Forest,Treed,Stable
+25,389,1984,188,Forest,Treed,
+25,389,1992,194,Forest,Treed,Stable
+25,389,1993,196,Forest,Treed,Unknown canopy disturbance
+25,389,2017,198,Forest,Treed,Stable
+25,389,2018,209,Forest,Treed,Unknown canopy disturbance
+25,390,1984,197,Forest,Treed,
+25,390,2018,202,Forest,Treed,Stable
+25,391,1984,188,Forest,Treed,
+25,391,2018,209,Forest,Treed,Stable
+25,392,1984,188,Forest,Treed,
+25,392,2000,200,Forest,Treed,Stable
+25,392,2001,202,Forest,Non-treed,Unknown canopy disturbance
+25,392,2005,189,Forest,Treed,Regrowth
+25,392,2018,217,Forest,Treed,Stable
+25,393,1984,188,Other,Non-treed,
+25,393,2018,201,Other,Non-treed,Stable
+25,394,1984,252,Forest,Treed,
+25,394,2018,209,Forest,Treed,Stable
+25,397,1984,197,Other,Non-treed,
+25,397,2018,201,Other,Non-treed,Stable
+25,398,1984,188,Forest,Treed,
+25,398,2018,201,Forest,Treed,Stable
+25,399,1984,197,Forest,Treed,
+25,399,1992,203,Forest,Treed,Stable
+25,399,1993,196,Forest,Non-treed,Unknown canopy disturbance
+25,399,2001,202,Forest,Treed,Regrowth
+25,399,2017,198,Forest,Treed,Stable
+25,399,2018,202,Forest,Non-treed,Unknown canopy disturbance
+25,401,1984,197,Other,Non-treed,
+25,401,2018,201,Other,Non-treed,Stable
+25,403,1984,188,Other,Non-treed,
+25,403,2018,201,Other,Non-treed,Stable
+25,406,1984,188,Forest,Treed,
+25,406,1991,191,Forest,Treed,Stable
+25,406,1992,226,Forest,Treed,Unknown canopy disturbance
+25,406,2001,202,Forest,Treed,Stable
+25,406,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,406,2008,198,Forest,Treed,Regrowth
+25,406,2018,201,Forest,Treed,Stable
+25,407,1984,252,Forest,Treed,
+25,407,2018,193,Forest,Treed,Stable
+25,409,1984,252,Other,Non-treed,
+25,409,2018,193,Other,Non-treed,Stable
+25,412,1984,197,Forest,Treed,
+25,412,1991,208,Forest,Treed,Stable
+25,412,1992,203,Forest,Non-treed,Unknown canopy disturbance
+25,412,1995,195,Forest,Treed,Regrowth
+25,412,2003,201,Forest,Treed,Stable
+25,412,2006,201,Forest,Non-treed,Unknown canopy disturbance
+25,412,2018,202,Forest,Treed,Regrowth
+25,413,1984,188,Forest,Treed,
+25,413,2018,201,Forest,Treed,Stable
+25,414,1984,188,Forest,Treed,
+25,414,2018,201,Forest,Treed,Stable
+25,415,1984,188,Other,Non-treed,
+25,415,2018,201,Other,Non-treed,Stable
+25,419,1984,197,Forest,Treed,
+25,419,2018,201,Forest,Treed,Stable
+25,421,1984,211,Forest,Treed,
+25,421,2018,185,Forest,Treed,Stable
+25,424,1984,197,Forest,Treed,
+25,424,1989,202,Forest,Treed,Stable
+25,424,1990,197,Forest,Non-treed,Unknown canopy disturbance
+25,424,2018,202,Forest,Treed,Regrowth
+25,425,1984,188,Forest,Treed,
+25,425,2018,185,Forest,Treed,Stable
+25,431,1984,197,Forest,Treed,
+25,431,2018,202,Forest,Treed,Stable
+25,432,1984,197,Other,Non-treed,
+25,432,2018,201,Other,Non-treed,Stable
+25,435,1984,197,Forest,Treed,
+25,435,2018,201,Forest,Treed,Stable
+25,436,1984,197,Other,Non-treed,
+25,436,2018,201,Other,Non-treed,Stable
+25,437,1984,172,Forest,Treed,
+25,437,2018,193,Forest,Treed,Stable
+25,438,1984,188,Forest,Treed,
+25,438,2007,203,Forest,Treed,Stable
+25,438,2008,199,Forest,Non-treed,Unknown canopy disturbance
+25,438,2018,202,Forest,Non-treed,Stable
+25,439,1984,197,Forest,Treed,
+25,439,2018,201,Forest,Treed,Stable
+25,442,1984,188,Forest,Treed,
+25,442,1997,207,Forest,Treed,Stable
+25,442,1999,197,Forest,Non-treed,Unknown canopy disturbance
+25,442,2018,202,Forest,Treed,Regrowth
+25,443,1984,188,Other,Non-treed,
+25,443,2018,201,Other,Non-treed,Stable
+25,444,1984,188,Other,Non-treed,
+25,444,2018,201,Other,Non-treed,Stable
+25,445,1984,197,Forest,Treed,
+25,445,1985,206,Forest,Treed,Stable
+25,445,1986,202,Forest,Non-treed,Unknown canopy disturbance
+25,445,1994,192,Forest,Treed,Regrowth
+25,445,2017,198,Forest,Treed,Stable
+25,445,2018,194,Forest,Non-treed,Unknown canopy disturbance
+25,446,1984,197,Forest,Treed,
+25,446,1991,207,Forest,Treed,Stable
+25,446,1992,203,Forest,Non-treed,Unknown canopy disturbance
+25,446,1999,198,Forest,Treed,Regrowth
+25,446,2017,199,Forest,Treed,Stable
+25,446,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,448,1984,197,Forest,Treed,
+25,448,2010,203,Forest,Treed,Stable
+25,448,2011,175,Forest,Treed,Unknown canopy disturbance
+25,448,2018,201,Forest,Treed,Stable
+25,453,1984,252,Forest,Treed,
+25,453,2018,201,Forest,Treed,Stable
+25,454,1984,188,Other,Non-treed,
+25,454,2018,209,Other,Non-treed,Stable
+25,455,1984,197,Forest,Non-treed,
+25,455,1993,205,Forest,Non-treed,Stable
+25,455,2018,202,Forest,Treed,Regrowth
+25,457,1984,188,Forest,Treed,
+25,457,1989,201,Forest,Treed,Stable
+25,457,1990,204,Forest,Non-treed,Unknown canopy disturbance
+25,457,1994,192,Forest,Treed,Regrowth
+25,457,2000,208,Forest,Treed,Stable
+25,457,2001,202,Forest,Non-treed,Unknown canopy disturbance
+25,457,2006,184,Forest,Treed,Regrowth
+25,457,2015,201,Forest,Treed,Stable
+25,457,2016,196,Forest,Treed,Unknown canopy disturbance
+25,457,2018,201,Forest,Treed,Stable
+25,458,1984,197,Forest,Treed,
+25,458,2006,200,Forest,Treed,Stable
+25,458,2007,203,Forest,Non-treed,Unknown canopy disturbance
+25,458,2017,198,Forest,Treed,Regrowth
+25,458,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,459,1984,197,Other,Non-treed,
+25,459,2018,201,Other,Non-treed,Stable
+25,462,1984,197,Forest,Non-treed,
+25,462,1989,202,Forest,Non-treed,Stable
+25,462,1991,168,Forest,Treed,Regrowth
+25,462,1998,203,Forest,Treed,Stable
+25,462,1999,182,Forest,Treed,Unknown canopy disturbance
+25,462,2013,196,Forest,Treed,Stable
+25,462,2014,167,Forest,Treed,Unknown canopy disturbance
+25,462,2018,202,Forest,Treed,Stable
+25,463,1984,188,Other,Non-treed,
+25,463,2018,201,Other,Non-treed,Stable
+25,464,1984,197,Forest,Treed,
+25,464,2004,195,Forest,Treed,Stable
+25,464,2005,181,Forest,Non-treed,Unknown canopy disturbance
+25,464,2009,153,Forest,Treed,Regrowth
+25,464,2015,201,Forest,Treed,Stable
+25,464,2016,197,Forest,Non-treed,Unknown canopy disturbance
+25,464,2018,201,Forest,Non-treed,Stable
+25,465,1984,172,Forest,Treed,
+25,465,2004,203,Forest,Treed,Stable
+25,465,2005,189,Forest,Treed,Unknown canopy disturbance
+25,465,2018,201,Forest,Treed,Stable
+25,467,1984,179,Forest,Treed,
+25,467,1998,210,Forest,Treed,Stable
+25,467,1999,196,Forest,Non-treed,Harvest
+25,467,2005,197,Forest,Treed,Stable
+25,467,2006,184,Forest,Non-treed,Harvest
+25,467,2007,210,Forest,Treed,Regrowth
+25,467,2018,201,Forest,Treed,Stable
+25,469,1984,252,Forest,Treed,
+25,469,2010,203,Forest,Treed,Stable
+25,469,2011,206,Forest,Non-treed,Unknown canopy disturbance
+25,469,2012,177,Forest,Treed,Regrowth
+25,469,2018,193,Forest,Treed,Stable
+25,471,1984,197,Forest,Treed,
+25,471,1989,201,Forest,Treed,Stable
+25,471,1990,197,Forest,Non-treed,Unknown canopy disturbance
+25,471,1993,196,Forest,Treed,Regrowth
+25,471,2018,201,Forest,Treed,Stable
+25,473,1984,188,Forest,Treed,
+25,473,2012,177,Forest,Treed,Stable
+25,473,2013,203,Forest,Non-treed,Unknown canopy disturbance
+25,473,2014,206,Forest,Treed,Regrowth
+25,473,2018,209,Forest,Treed,Stable
+25,474,1984,197,Other,Non-treed,
+25,474,2018,202,Other,Non-treed,Stable
+25,475,1984,197,Forest,Treed,
+25,475,2003,201,Forest,Treed,Stable
+25,475,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,475,2018,201,Forest,Treed,Regrowth
+25,476,1984,197,Forest,Treed,
+25,476,2001,202,Forest,Treed,Stable
+25,476,2003,201,Forest,Non-treed,Unknown canopy disturbance
+25,476,2018,201,Forest,Non-treed,Stable
+25,477,1984,252,Forest,Treed,
+25,477,2011,206,Forest,Treed,Stable
+25,477,2012,145,Forest,Non-treed,Unknown canopy disturbance
+25,477,2018,217,Forest,Non-treed,Stable
+25,478,1984,197,Other,Non-treed,
+25,478,2018,202,Other,Non-treed,Stable
+25,480,1984,197,Forest,Treed,
+25,480,2018,201,Forest,Treed,Stable
+25,481,1984,163,Forest,Treed,
+25,481,2018,193,Forest,Treed,Stable
+25,482,1984,197,Forest,Treed,
+25,482,2011,206,Forest,Treed,Stable
+25,482,2012,177,Forest,Non-treed,Unknown canopy disturbance
+25,482,2018,201,Forest,Treed,Regrowth
+25,483,1984,197,Forest,Treed,
+25,483,1986,186,Forest,Treed,Stable
+25,483,1987,173,Forest,Non-treed,Unknown canopy disturbance
+25,483,1988,208,Forest,Treed,Regrowth
+25,483,2003,201,Forest,Treed,Stable
+25,483,2004,204,Forest,Non-treed,Unknown canopy disturbance
+25,483,2006,201,Forest,Treed,Regrowth
+25,483,2018,201,Forest,Treed,Stable
+25,484,1984,197,Other,Non-treed,
+25,484,2018,194,Other,Non-treed,Stable
+25,487,1984,211,Forest,Treed,
+25,487,1994,190,Forest,Treed,Stable
+25,487,1995,186,Forest,Treed,Unknown canopy disturbance
+25,487,2014,197,Forest,Treed,Stable
+25,487,2015,201,Forest,Non-treed,Unknown canopy disturbance
+25,487,2018,201,Forest,Treed,Regrowth
+25,488,1984,188,Other,Non-treed,
+25,488,2018,209,Other,Non-treed,Stable
+25,466,1984,197,Forest,Treed,
+25,466,1985,206,Forest,Treed,Stable
+25,466,1987,148,Forest,Non-treed,Unknown canopy disturbance
+25,466,1990,197,Forest,Treed,Regrowth
+25,466,2001,202,Forest,Treed,Stable
+25,466,2002,173,Forest,Non-treed,Unknown canopy disturbance
+25,466,2004,203,Forest,Treed,Regrowth
+25,466,2017,199,Forest,Treed,Stable
+25,466,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,468,1984,252,Forest,Treed,
+25,468,1985,222,Forest,Treed,Stable
+25,468,1986,209,Forest,Non-treed,Unknown canopy disturbance
+25,468,1989,169,Forest,Treed,Regrowth
+25,468,1990,188,Forest,Non-treed,Unknown canopy disturbance
+25,468,1992,194,Forest,Treed,Regrowth
+25,468,2018,201,Forest,Treed,Stable
+25,470,1984,197,Forest,Treed,
+25,470,2016,196,Forest,Treed,Stable
+25,470,2018,209,Forest,Non-treed,Unknown canopy disturbance
+25,489,1984,197,Forest,Treed,
+25,489,2004,195,Forest,Treed,Stable
+25,489,2005,197,Forest,Non-treed,Harvest
+25,489,2018,202,Forest,Non-treed,Stable
+25,451,1984,188,Forest,Non-treed,
+25,451,1997,207,Forest,Non-treed,Stable
+25,451,1998,194,Forest,Treed,Regrowth
+25,451,2018,201,Forest,Treed,Stable
+25,405,1984,188,Other,Non-treed,
+25,405,2018,193,Other,Non-treed,Stable
+25,18,1984,188,Forest,Non-treed,
+25,18,1997,200,Forest,Treed,Regrowth
+25,18,1998,178,Forest,Non-treed,Unknown canopy disturbance
+25,18,2018,201,Forest,Treed,Regrowth
+25,20,1984,108,Forest,Non-treed,
+25,20,1986,273,Forest,Treed,Regrowth
+25,20,2015,201,Forest,Treed,Stable
+25,20,2016,204,Forest,Non-treed,Unknown canopy disturbance
+25,20,2018,217,Forest,Treed,Regrowth
+25,24,1984,197,Forest,Treed,
+25,24,2017,198,Forest,Treed,Stable
+25,24,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,44,1984,197,Forest,Treed,
+25,44,1986,202,Forest,Treed,Stable
+25,44,1988,208,Forest,Non-treed,Unknown canopy disturbance
+25,44,1991,208,Forest,Treed,Regrowth
+25,44,2001,203,Forest,Treed,Stable
+25,44,2002,206,Forest,Non-treed,Unknown canopy disturbance
+25,44,2010,212,Forest,Treed,Regrowth
+25,44,2011,175,Forest,Non-treed,Unknown canopy disturbance
+25,44,2018,202,Forest,Treed,Regrowth
+25,55,1984,211,Forest,Treed,
+25,55,1995,209,Forest,Treed,Stable
+25,55,1996,180,Forest,Non-treed,Unknown canopy disturbance
+25,55,1997,198,Forest,Treed,Regrowth
+25,55,2003,192,Forest,Treed,Stable
+25,55,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,55,2005,197,Forest,Treed,Regrowth
+25,55,2010,202,Forest,Treed,Stable
+25,55,2011,221,Forest,Non-treed,Unknown canopy disturbance
+25,55,2012,193,Forest,Treed,Regrowth
+25,55,2017,198,Forest,Treed,Stable
+25,55,2018,193,Forest,Non-treed,Unknown canopy disturbance
+25,57,1984,197,Forest,Treed,
+25,57,2018,202,Forest,Treed,Stable
+25,92,1984,197,Forest,Non-treed,
+25,92,1989,201,Forest,Treed,Regrowth
+25,92,2005,197,Forest,Treed,Stable
+25,92,2006,201,Forest,Non-treed,Unknown canopy disturbance
+25,92,2018,201,Forest,Non-treed,Stable
+25,99,1984,188,Forest,Treed,
+25,99,2018,217,Forest,Treed,Stable
+25,100,1984,197,Forest,Treed,
+25,100,2018,201,Forest,Treed,Stable
+25,112,1984,188,Forest,Non-treed,
+25,112,1991,207,Forest,Non-treed,Stable
+25,112,1994,215,Forest,Treed,Regrowth
+25,112,2018,185,Forest,Treed,Stable
+25,138,1984,197,Other,Non-treed,
+25,138,2018,201,Other,Non-treed,Stable
+25,141,1984,197,Forest,Non-treed,
+25,141,2004,219,Forest,Non-treed,Stable
+25,141,2018,202,Forest,Treed,Regrowth
+25,157,1984,252,Forest,Treed,
+25,157,2018,193,Forest,Treed,Stable
+25,158,1984,188,Forest,Treed,
+25,158,2008,190,Forest,Treed,Stable
+25,158,2011,206,Forest,Non-treed,Unknown canopy disturbance
+25,158,2018,201,Forest,Non-treed,Stable
+25,162,1984,197,Forest,Treed,
+25,162,2017,198,Forest,Treed,Stable
+25,162,2018,202,Forest,Non-treed,Unknown canopy disturbance
+25,181,1984,220,Forest,Treed,
+25,181,2012,193,Forest,Treed,Stable
+25,181,2013,203,Forest,Non-treed,Unknown canopy disturbance
+25,181,2017,198,Forest,Treed,Regrowth
+25,181,2018,208,Forest,Non-treed,Unknown canopy disturbance
+25,198,1984,252,Forest,Treed,
+25,198,1991,175,Forest,Treed,Stable
+25,198,1992,178,Forest,Non-treed,Unknown canopy disturbance
+25,198,1993,196,Forest,Treed,Regrowth
+25,198,2004,186,Forest,Treed,Stable
+25,198,2005,189,Forest,Non-treed,Unknown canopy disturbance
+25,198,2017,198,Forest,Treed,Regrowth
+25,198,2018,217,Forest,Non-treed,Unknown canopy disturbance
+25,235,1984,197,Forest,Treed,
+25,235,1986,154,Forest,Treed,Stable
+25,235,1987,148,Forest,Non-treed,Unknown canopy disturbance
+25,235,1988,208,Forest,Treed,Regrowth
+25,235,1991,207,Forest,Treed,Stable
+25,235,1992,178,Forest,Non-treed,Unknown canopy disturbance
+25,235,1993,196,Forest,Treed,Regrowth
+25,235,1997,200,Forest,Treed,Stable
+25,235,1998,203,Forest,Non-treed,Unknown canopy disturbance
+25,235,2017,199,Forest,Treed,Regrowth
+25,235,2018,202,Forest,Non-treed,Unknown canopy disturbance
+25,249,1984,197,Other,Non-treed,
+25,249,2018,201,Other,Non-treed,Stable
+25,257,1984,220,Forest,Treed,
+25,257,1989,137,Forest,Treed,Stable
+25,257,1990,156,Forest,Non-treed,Unknown canopy disturbance
+25,257,1991,143,Forest,Treed,Regrowth
+25,257,2003,192,Forest,Treed,Stable
+25,257,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,257,2018,217,Forest,Treed,Regrowth
+25,259,1984,252,Forest,Treed,
+25,259,1998,194,Forest,Treed,Stable
+25,259,1999,197,Forest,Treed,Unknown canopy disturbance
+25,259,2018,193,Forest,Treed,Stable
+25,260,1984,220,Forest,Treed,
+25,260,1986,81,Forest,Treed,Stable
+25,260,1987,148,Forest,Non-treed,Unknown canopy disturbance
+25,260,1988,231,Forest,Treed,Regrowth
+25,260,2018,201,Forest,Treed,Stable
+25,283,1984,188,Forest,Treed,
+25,283,2018,201,Forest,Treed,Stable
+25,274,1984,197,Forest,Treed,
+25,274,1991,159,Forest,Treed,Stable
+25,274,1992,123,Forest,Non-treed,Unknown canopy disturbance
+25,274,2000,200,Forest,Treed,Regrowth
+25,274,2007,203,Forest,Treed,Stable
+25,274,2008,199,Forest,Non-treed,Unknown canopy disturbance
+25,274,2017,198,Forest,Treed,Regrowth
+25,274,2018,201,Forest,Treed,Unknown canopy disturbance
+25,285,1984,188,Forest,Treed,
+25,285,2008,198,Forest,Treed,Stable
+25,285,2009,224,Forest,Non-treed,Unknown canopy disturbance
+25,285,2018,201,Forest,Non-treed,Stable
+25,296,1984,197,Forest,Treed,
+25,296,2003,201,Forest,Treed,Stable
+25,296,2004,140,Forest,Treed,Unknown canopy disturbance
+25,296,2013,203,Forest,Treed,Stable
+25,296,2014,206,Forest,Treed,Unknown canopy disturbance
+25,296,2018,201,Forest,Treed,Stable
+25,297,1984,220,Forest,Treed,
+25,297,1993,148,Forest,Treed,Stable
+25,297,1995,170,Forest,Non-treed,Unknown canopy disturbance
+25,297,1996,196,Forest,Treed,Regrowth
+25,297,2001,202,Forest,Treed,Stable
+25,297,2003,120,Forest,Non-treed,Unknown canopy disturbance
+25,297,2011,206,Forest,Treed,Regrowth
+25,297,2012,177,Forest,Non-treed,Unknown canopy disturbance
+25,297,2018,217,Forest,Treed,Regrowth
+25,306,1984,197,Forest,Treed,
+25,306,1988,208,Forest,Treed,Stable
+25,306,1989,201,Forest,Non-treed,Unknown canopy disturbance
+25,306,1995,202,Forest,Treed,Regrowth
+25,306,1996,198,Forest,Non-treed,Unknown canopy disturbance
+25,306,2001,202,Forest,Treed,Regrowth
+25,306,2017,198,Forest,Non-treed,Stable
+25,306,2018,194,Forest,Non-treed,Unknown canopy disturbance
+25,313,1984,188,Forest,Treed,
+25,313,2015,201,Forest,Treed,Stable
+25,313,2018,201,Forest,Treed,Unknown canopy disturbance
+25,325,1984,197,Forest,Treed,
+25,325,2004,203,Forest,Treed,Stable
+25,325,2005,197,Other,Non-treed,Unknown canopy disturbance
+25,325,2018,201,Other,Non-treed,Stable
+25,326,1984,188,Forest,Treed,
+25,326,2003,208,Forest,Treed,Stable
+25,326,2004,195,Other,Non-treed,Harvest
+25,326,2018,201,Other,Non-treed,Stable
+25,351,1984,197,Forest,Treed,
+25,351,1985,199,Forest,Treed,Stable
+25,351,1986,154,Forest,Non-treed,Unknown canopy disturbance
+25,351,1988,208,Forest,Treed,Regrowth
+25,351,1994,192,Forest,Treed,Stable
+25,351,1996,198,Forest,Treed,Unknown canopy disturbance
+25,351,2003,201,Forest,Treed,Stable
+25,351,2004,195,Forest,Non-treed,Unknown canopy disturbance
+25,351,2018,201,Forest,Treed,Regrowth
+25,375,1984,197,Forest,Treed,
+25,375,1992,203,Forest,Treed,Stable
+25,375,1993,196,Forest,Non-treed,Unknown canopy disturbance
+25,375,2018,201,Forest,Non-treed,Stable
+25,377,1984,252,Forest,Treed,
+25,377,1985,222,Forest,Treed,Stable
+25,377,1986,305,Forest,Non-treed,Unknown canopy disturbance
+25,377,1988,231,Forest,Treed,Regrowth
+25,377,1992,194,Forest,Treed,Stable
+25,377,1993,148,Forest,Non-treed,Unknown canopy disturbance
+25,377,1994,215,Forest,Treed,Regrowth
+25,377,2000,200,Forest,Treed,Stable
+25,377,2001,202,Forest,Non-treed,Unknown canopy disturbance
+25,377,2004,195,Forest,Treed,Regrowth
+25,377,2009,224,Forest,Treed,Stable
+25,377,2011,262,Forest,Non-treed,Unknown canopy disturbance
+25,377,2013,195,Forest,Treed,Regrowth
+25,377,2018,201,Forest,Treed,Stable
+25,378,1984,220,Other,Non-treed,
+25,378,2018,217,Other,Non-treed,Stable
+25,381,1984,197,Forest,Non-treed,
+25,381,1989,201,Forest,Non-treed,Stable
+25,381,1990,197,Forest,Treed,Regrowth
+25,381,2007,203,Forest,Treed,Stable
+25,381,2008,199,Forest,Non-treed,Unknown canopy disturbance
+25,381,2015,201,Forest,Treed,Regrowth
+25,381,2016,196,Forest,Non-treed,Unknown canopy disturbance
+25,381,2018,201,Forest,Non-treed,Stable
+25,383,1984,197,Forest,Non-treed,
+25,383,1992,203,Forest,Non-treed,Stable
+25,383,1998,203,Forest,Treed,Regrowth
+25,383,2018,201,Forest,Treed,Stable
+25,402,1984,188,Forest,Treed,
+25,402,1992,226,Forest,Treed,Stable
+25,402,1993,212,Forest,Treed,Unknown canopy disturbance
+25,402,2018,201,Forest,Treed,Stable
+25,411,1984,252,Forest,Treed,
+25,411,1994,183,Forest,Treed,Stable
+25,411,1995,234,Forest,Treed,Unknown canopy disturbance
+25,411,2015,201,Forest,Treed,Stable
+25,411,2017,94,Forest,Non-treed,Unknown canopy disturbance
+25,411,2018,193,Forest,Treed,Regrowth
+25,416,1984,188,Forest,Non-treed,
+25,416,1993,196,Forest,Non-treed,Stable
+25,416,1994,192,Forest,Treed,Regrowth
+25,416,2018,202,Forest,Treed,Stable
+25,440,1984,188,Forest,Treed,
+25,440,1989,233,Forest,Treed,Stable
+25,440,1990,204,Forest,Non-treed,Unknown canopy disturbance
+25,440,1994,215,Forest,Treed,Regrowth
+25,440,2018,217,Forest,Treed,Stable
+25,441,1984,188,Other,Non-treed,
+25,441,2018,201,Other,Non-treed,Stable
+25,449,1984,245,Forest,Treed,
+25,449,1985,119,Forest,Treed,Unknown canopy disturbance
+25,449,2001,202,Forest,Treed,Stable
+25,449,2002,197,Forest,Non-treed,Unknown canopy disturbance
+25,449,2008,199,Forest,Treed,Regrowth
+25,449,2016,196,Forest,Treed,Stable
+25,449,2018,201,Forest,Non-treed,Unknown canopy disturbance
+25,450,1984,197,Forest,Treed,
+25,450,1986,170,Forest,Treed,Stable
+25,450,1987,173,Forest,Non-treed,Unknown canopy disturbance
+25,450,1996,198,Forest,Treed,Regrowth
+25,450,2018,202,Forest,Treed,Stable
+25,461,1984,197,Forest,Treed,
+25,461,1994,176,Forest,Treed,Stable
+25,461,1995,195,Forest,Non-treed,Unknown canopy disturbance
+25,461,1996,198,Forest,Treed,Regrowth
+25,461,2004,140,Forest,Treed,Stable
+25,461,2005,174,Forest,Non-treed,Unknown canopy disturbance
+25,461,2006,201,Forest,Treed,Regrowth
+25,461,2018,202,Forest,Treed,Stable
+25,472,1984,252,Forest,Treed,
+25,472,1988,231,Forest,Treed,Stable
+25,472,1989,137,Forest,Treed,Unknown canopy disturbance
+25,472,2017,198,Forest,Treed,Stable
+25,472,2018,153,Forest,Non-treed,Unknown canopy disturbance
+25,490,1984,197,Forest,Non-treed,
+25,490,1998,203,Forest,Treed,Regrowth
+25,490,2016,196,Forest,Treed,Stable
+25,490,2017,198,Forest,Non-treed,Unknown canopy disturbance
+25,490,2018,201,Forest,Non-treed,Stable
+25,396,1984,197,Forest,Treed,
+25,396,1988,208,Forest,Treed,Stable
+25,396,1990,197,Forest,Non-treed,Unknown canopy disturbance
+25,396,2002,197,Forest,Treed,Regrowth
+25,396,2004,203,Forest,Non-treed,Unknown canopy disturbance
+25,396,2018,201,Forest,Non-treed,Stable
+25,355,1984,188,Forest,Non-treed,
+25,355,1991,207,Forest,Non-treed,Stable
+25,355,1993,196,Forest,Treed,Regrowth
+25,355,2016,196,Forest,Treed,Stable
+25,355,2017,198,Forest,Non-treed,Unknown canopy disturbance
+25,355,2018,217,Forest,Non-treed,Stable
+25,279,1984,188,Forest,Treed,
+25,279,1992,194,Forest,Treed,Stable
+25,279,1993,196,Forest,Non-treed,Unknown canopy disturbance
+25,279,2005,189,Forest,Non-treed,Stable
+25,279,2006,184,Forest,Treed,Regrowth
+25,279,2012,193,Forest,Treed,Stable
+25,279,2013,203,Forest,Non-treed,Unknown canopy disturbance
+25,279,2014,190,Forest,Treed,Regrowth
+25,279,2018,201,Forest,Treed,Stable
